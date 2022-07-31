@@ -1,0 +1,8 @@
+[config]
+feed_link=https://en.newsicon.org/feed/
+client_id=EtasOcqs-Dx7F_8aPC95rg
+client_secret=o9Q23kKBofy5Mjvmp7PBBjpYwyn1hg
+username=CheapCaptain
+password=IamSEO125
+subreddit=NewsIcon_Org
+flair_id=7cc8ad70-109d-11ed-9732-b2ee4a452d52
